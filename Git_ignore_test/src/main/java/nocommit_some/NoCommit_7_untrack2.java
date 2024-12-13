@@ -25,6 +25,7 @@ public class NoCommit_7_untrack2 {
 	    */
 		
 		System.out.println("=== NoCommit_7_untrack2.java 파일입니다. ===");
+		System.out.println("=== 수정1 ===");
 
 	}
 
